@@ -3,6 +3,6 @@ public clas HelloWorld{
     Systom.out.println("Hello world");
   }
   public static String hello(){
-    return "Hello world";
+    return "Hello world！！";
   } 
 }
